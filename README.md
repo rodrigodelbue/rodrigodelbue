@@ -1,4 +1,14 @@
-## Hi there 👋
+## ### Boas vindas ao meu perfil :blue_heart
+
+Meu nome é Marcelo Paludetto
+
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+
+
+![descrição do GIF](<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/yw5eRWDAClzhW4t5Lm/video" width="480"></iframe></div>)
 
 <!--
 **rodrigodelbue/rodrigodelbue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
